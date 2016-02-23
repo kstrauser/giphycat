@@ -18,7 +18,7 @@ def get_random_giphy(phrase):
 
         giphy = giphypop.Giphy()
 
-    results = giphy.search_list(phrase=phrase)
+    results = giphy.search_list(phrase=phrase, limit=100)
 
     if not results:
         raise ValueError('There were no results for that phrase')
