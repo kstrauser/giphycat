@@ -15,15 +15,15 @@ giphycat requires either Python 2.7 or Python 3.5+ (and possibly earlier version
 When run with no arguments, `giphycat` fetches a random image from Giphy and displays it in the terminal:
 
 `$ giphycat`
-![sunglasses](doc/sunglasses.gif)
+<br>![sunglasses](doc/sunglasses.gif)
 
 Any other arguments are treated as a search phrase, and `giphycat` will return one of the images for that phrase at random:
 
 `$ giphycat boston terrier`
-![boston_terrier](doc/boston_terrier.gif)
+<br>![boston_terrier](doc/boston_terrier.gif)
 
 `$ giphycat creqcrqwrceqwrceqwrq`
-`Unable to find any GIFs for 'creqcrqwrceqwrceqwrq'`
+<br>`Unable to find any GIFs for 'creqcrqwrceqwrceqwrq'`
 
 # Copyright
 
