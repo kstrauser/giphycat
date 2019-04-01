@@ -1,4 +1,7 @@
-giphypop==0.2
-iterm2-tools==2.2
-requests==2.9.1
-wsgiref==0.1.2
+certifi==2019.3.9
+chardet==3.0.4
+giphypop==0.3
+idna==2.8
+iterm2-tools==2.3
+requests==2.21.0
+urllib3==1.24.1
