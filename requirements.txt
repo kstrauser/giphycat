@@ -1,7 +1,3 @@
-certifi==2019.3.9
-chardet==3.0.4
-giphypop==0.3
-idna==2.8
-iterm2-tools==2.3
-requests==2.21.0
-urllib3==1.24.1
+giphypop>=0.3
+iterm2-tools>=2.3
+requests>=2.21
